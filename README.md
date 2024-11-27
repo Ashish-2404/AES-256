@@ -90,13 +90,16 @@ This is a Python-based graphical user interface (GUI) application for encrypting
 - Displays project title and image, along with encryption and decryption options.
  ---
  ![Main Window](images/Main%20Window.png)
-
+  ---
 ## Encryption Window
 - Text box for plaintext input, secret key field, and ciphertext output.
+  ---
  ![Encryption Window](images/Encryption%20Window.png)
-
+ ---
 ## Decryption Window
 - Text box for ciphertext input, secret key field, and plaintext output.
+ ---
  ![Decryption Window](images/Decryption%20Window.png)
+ ---
 
 
