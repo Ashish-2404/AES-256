@@ -63,3 +63,18 @@ This is a Python-based graphical user interface (GUI) application for encrypting
 1. Paste the ciphertext into the decryption window.
 2. Enter the same secret key used for encryption.
 3. Click "Decrypt" to retrieve the original plaintext.
+
+# Screenshots
+
+## Main Window
+- Displays project title and image, along with encryption and decryption options.
+- ![Main Window](images/Decryption Window.png)
+
+## Encryption Window
+- Text box for plaintext input, secret key field, and ciphertext output.
+- ![Encryption Window](images/encryption_window.png)
+
+## Decryption Window
+- Text box for ciphertext input, secret key field, and plaintext output.
+- ![Decryption Window](images/decryption_window.png)
+
