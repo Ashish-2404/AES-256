@@ -46,3 +46,20 @@ This is a Python-based graphical user interface (GUI) application for encrypting
 2. The passphrase is used to derive the same AES256 key.
 3. The ciphertext is decrypted to retrieve the padded plaintext.
 4. The padding is removed to recover the original plaintext.
+
+# Usage
+
+## Launch the Application
+- Run the script, and the main window will appear.
+- Choose between "Encrypt" and "Decrypt" options.
+
+## Encryption
+1. Enter the plaintext message in the provided text box.
+2. Provide a secret key (passphrase) for encryption.
+3. Click "Encrypt" to generate the ciphertext.
+4. Copy the ciphertext for secure sharing.
+
+## Decryption
+1. Paste the ciphertext into the decryption window.
+2. Enter the same secret key used for encryption.
+3. Click "Decrypt" to retrieve the original plaintext.
