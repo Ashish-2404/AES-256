@@ -72,7 +72,7 @@ This is a Python-based graphical user interface (GUI) application for encrypting
 
 ## Encryption Window
 - Text box for plaintext input, secret key field, and ciphertext output.
-- ![Encryption Window](images/encryption_window.png)
+- ![Encryption Window](images/DecryptionWindow.png)
 
 ## Decryption Window
 - Text box for ciphertext input, secret key field, and plaintext output.
