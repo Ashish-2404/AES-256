@@ -31,6 +31,26 @@ This is a Python-based graphical user interface (GUI) application for encrypting
    ```bash
    git clone https://github.com/Ashish-2404/AES256.git
    cd AES256
+   ```
+
+2. **Install Dependencies**  
+   Ensure you have Python installed (version 3.8 or higher). Then, install the required Python libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Requirements File**
+   - `cryptography`
+   - `Pillow`
+
+4. **Add an Image**  
+   Place an image named `PHOTO.jpg` in the project directory. This image will be displayed on the main window.
+
+5. **Run the Application**  
+   Execute the Python script to launch the application:
+   ```bash
+   python pycryptosimpleaes.py
+   ```
 
 
 ## How the Code Works
