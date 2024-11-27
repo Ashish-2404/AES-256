@@ -88,6 +88,7 @@ This is a Python-based graphical user interface (GUI) application for encrypting
 
 ## Main Window
 - Displays project title and image, along with encryption and decryption options.
+ ---
  ![Main Window](images/Main%20Window.png)
 
 ## Encryption Window
